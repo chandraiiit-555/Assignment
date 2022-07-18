@@ -17,3 +17,10 @@ Question 1: Write a code to add the mailing feature in the Flask Application?
 
 
   
+  Question 2: What is OpenCV? Give some examples of OpenCV usage.
+  
+  * pip install pip install opencv-python
+
+  * Download task2.py & no_such_column_issue.png in same folder.
+  * Run python task2.py to see the results.
+  * Added openCV description in task2.py, please check it.
