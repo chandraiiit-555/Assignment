@@ -36,5 +36,29 @@ Question 4: Write python code to establish connection with any database (SQL/Mon
 * pip install mysql-connector-python
 * Update database host name, username, password in task4.py
 * run the task4.py using python task4.py to see the results.
-*
 
+
+Question 5: Create a simple POST API in python using any python framework of your choice (Django/Flask), which can do following:
+
+* pip install django
+* pip install djangorestframework
+* django-admin startproject task5
+* cd task5
+* django-admin startapp task
+* cd ..
+* python manage.py migrate
+* python manage.py createsuperuser --email someone@shorewise.com --username admin
+* Download task5 folder from the repo.
+* copy & paste task5/urls.py
+* Copy & past task/views.py
+* Run python manage.py runserver command in command prompt.
+* Check command prompt logs and paste http://127.0.0.1:8000/task5 in the browser.
+* paste the below json object in the content of post request 
+* {
+"name":"testing",
+"date_of_birth":"05/02/1990",
+"country":"India"
+}
+
+* Hit POST button to see the API response.
+* Please check task5.xlsx for tested results ( shared the file for referrance )
