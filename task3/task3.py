@@ -1,7 +1,7 @@
 
 """
 
-Pandas is an python library providing high performance data manipulation using it's powerful data structures like Series, DataFrame & Panel.
+Pandas is an python library providing high performance data manipulation & analysis tool using it's data structures like Series, DataFrame & Panel.
 
 Pandas data structures are very fast because these data structures are built on top of Numpy array.
 
