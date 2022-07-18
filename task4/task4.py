@@ -1,5 +1,8 @@
 """
 We are using MySQL connected python library to establish a connection between Python code and mysql database.
+
+We should store all confidential information in CFG files but testing purpose directly added here.
+
 """
 import mysql.connector # importing the mysql connector, will give ImportError if not installed in the machine.
 
