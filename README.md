@@ -64,4 +64,5 @@ Question 5: Create a simple POST API in python using any python framework of you
 
 * Hit POST button to see the API response.
 * Please check task5.xlsx for tested results ( shared the file for referrance )
+* Please check screenshots for referrance.
 * Note: I uploaded entire django project, you can directly download and run in your machine.
