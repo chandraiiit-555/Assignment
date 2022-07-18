@@ -1,5 +1,7 @@
 # Purnachandra Assignment
 
+Please download and setup python in your machine.
+
 Question 1: Write a code to add the mailing feature in the Flask Application?
 
 * pip install Flask
