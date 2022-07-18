@@ -30,3 +30,11 @@ Question 3: What is pandas? Write down a code to join two dataframes.
 
 * Download task3.py and run the file using python task3.py command to see the results.
 * Please check task3.py docstring for pandas description.
+
+Question 4: Write python code to establish connection with any database (SQL/MongoDB).
+
+* pip install mysql-connector-python
+* Update database host name, username, password in task4.py
+* run the task4.py using python task4.py to see the results.
+*
+
