@@ -26,4 +26,7 @@ Question 2: What is OpenCV? Give some examples of OpenCV usage.
 
 Question 3: What is pandas? Write down a code to join two dataframes.
 
-* 
+* pip install pandas
+
+* Download task3.py and run the file using python task3.py command to see the results.
+* Please check task3.py docstring for pandas description.
