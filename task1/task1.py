@@ -9,11 +9,11 @@ mail = Mail(app) # instantiate the mail class
 """
 
 Google disabled the less secure app access (https://myaccount.google.com/lesssecureapps) 
-to we can't test the mail feature with smtp.gmail.com
+so we can't test the mail feature with smtp.gmail.com
 
 Please setup another smtp server like smtp.mailtrap.io and setup username a& password.
 
-All SMTP values should be in CFG file
+All SMTP values should be read from CFG files but directly added here for testing purpose.
 
 """
 # configuration of mail
