@@ -23,3 +23,7 @@ Question 2: What is OpenCV? Give some examples of OpenCV usage.
   * Download task2.py & no_such_column_issue.png in same folder.
   * Run python task2.py to see the results.
   * Added openCV description in task2.py, please check it.
+
+Question 3: What is pandas? Write down a code to join two dataframes.
+
+* 
